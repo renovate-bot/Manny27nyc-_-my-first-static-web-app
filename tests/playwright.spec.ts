@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { test, expect } from '@playwright/test';
 
 test('basic test', async ({ page }) => {
